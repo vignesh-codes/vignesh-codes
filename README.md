@@ -1,6 +1,6 @@
 ### 👋 Hey there!
 
-- 🧑‍💻 I'm Vinn — a backend engineer who enjoys building cool stuff with cloud-native tools.
+- 🧑‍💻 I'm Vinn, a backend engineer who enjoys building cool stuff with cloud-native tools.
 - 🚀 I’m into distributed systems, observability, cloud orchestration and automations making DevOps a little less painful.
 - 🛠️ I’ve contributed to:
   - [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector/pull/13048)
