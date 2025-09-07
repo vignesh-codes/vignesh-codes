@@ -5,4 +5,5 @@
 - 🛠️ I’ve contributed to:
   - [OpenTelemetry Collector](https://github.com/open-telemetry/opentelemetry-collector/pull/13048)
   - [OpenTelemetry Operator](https://github.com/open-telemetry/opentelemetry-operator/pull/4041)
+  - [Grafana Operator](https://github.com/grafana/grafana-operator/pull/2178)
 - 🌐 Currently tinkering with AI agents, model context protocols, and automating developer workflows on cloud. I have recently ventured into frontend technologies too - check out my new portfolio site here: https://vinn-portfolio-pi.vercel.app/
