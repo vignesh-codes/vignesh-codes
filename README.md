@@ -10,10 +10,9 @@
      - [Add serviceName Field to OpenTelemetryCollector CRD for StatefulSet Deployments](https://github.com/open-telemetry/opentelemetry-operator/pull/4041)
   - Grafana Operator
       - [Added watchers for cm, secrets in datasource_controller](https://github.com/grafana/grafana-operator/pull/2178)
-      <!---
       - [Added watchers for cm, secrets in contactpoint_controller](https://github.com/grafana/grafana-operator/pull/2202)
       - [Added watchers for secrets in serviceaccount_controller](https://github.com/grafana/grafana-operator/pull/2203)
-      -->
+      
 - Currently tinkering with AI agents, model context protocols, and automating developer workflows on cloud. I have recently ventured into frontend technologies too - check out my new portfolio site here: https://vinn-portfolio-pi.vercel.app/
 
 <p align="center">
