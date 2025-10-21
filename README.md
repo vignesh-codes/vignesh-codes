@@ -6,6 +6,7 @@
   - OpenTelemetry Collector
      - [Add context handling to sinks in consumertest](https://github.com/open-telemetry/opentelemetry-collector/pull/13048)
      - [Added type check before processing for sum metrics](https://github.com/open-telemetry/opentelemetry-collector/pull/13780)
+     - [Add include_insecure_cipher_suites to configtls to enable insecure cipher suites](https://github.com/open-telemetry/opentelemetry-collector/pull/14043)
   - OpenTelemetry Operator
      - [Add serviceName Field to OpenTelemetryCollector CRD for StatefulSet Deployments](https://github.com/open-telemetry/opentelemetry-operator/pull/4041)
   - Grafana Operator
