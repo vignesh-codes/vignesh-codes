@@ -14,6 +14,7 @@
       - [Added watchers for cm, secrets in contactpoint_controller](https://github.com/grafana/grafana-operator/pull/2202)
       - [Added watchers for secrets in serviceaccount_controller](https://github.com/grafana/grafana-operator/pull/2203)
       - [Added 'w' for weeks and 'd' for days in AlertRuleGroup CRD](https://github.com/grafana/grafana-operator/pull/2269)
+      - [Added watch referenced secrets and configmaps in Grafana CR and triger rolling restart on change](https://github.com/grafana/grafana-operator/pull/2525)
       
 - Currently tinkering with AI agents, model context protocols, and automating developer workflows on cloud. I have recently ventured into frontend technologies too - check out my new portfolio site here: https://vinn-portfolio-pi.vercel.app/
 
