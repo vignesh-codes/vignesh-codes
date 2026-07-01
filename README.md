@@ -1,7 +1,7 @@
 ### 👋 Hey there!
 
-- I'm Vinn, a backend engineer who enjoys building cool stuff with cloud-native tools.
-- I’m into distributed systems, observability, cloud orchestration and automations making DevOps a little less painful.
+- I'm Vinn, a backend and platform engineer who enjoys building with cloud-native tools.
+- I’m into distributed systems, observability, cloud orchestration and automations and everything that makes the products go from 0 -> 1.
 - I’ve contributed to:
   - OpenTelemetry Collector
      - [Add context handling to sinks in consumertest](https://github.com/open-telemetry/opentelemetry-collector/pull/13048)
@@ -16,7 +16,7 @@
       - [Added 'w' for weeks and 'd' for days in AlertRuleGroup CRD](https://github.com/grafana/grafana-operator/pull/2269)
       - [Added watch referenced secrets and configmaps in Grafana CR and triger rolling restart on change](https://github.com/grafana/grafana-operator/pull/2525)
       
-- Currently tinkering with AI agents, model context protocols, and automating developer workflows on cloud. I have recently ventured into frontend technologies too - check out my new portfolio site here: https://vinn-portfolio-pi.vercel.app/
+- Currently tinkering with AI agents, model context protocols, and automating developer workflows on cloud. I have recently ventured into frontend technologies too - check out my new portfolio site here: https://vwsdev.space/
 
 <p align="center">
   <b>GitHub Stars I received:</b><br/>
