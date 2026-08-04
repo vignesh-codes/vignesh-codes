@@ -16,7 +16,7 @@
       - [Added 'w' for weeks and 'd' for days in AlertRuleGroup CRD](https://github.com/grafana/grafana-operator/pull/2269)
       - [Added watch referenced secrets and configmaps in Grafana CR and triger rolling restart on change](https://github.com/grafana/grafana-operator/pull/2525)
       
-- Currently tinkering with AI agents, model context protocols, and automating developer workflows on cloud. I have recently ventured into frontend technologies too - check out my new portfolio site here: https://vwsdev.space/
+- Currently tinkering with AI agents, model context protocols, and automating developer workflows on cloud. I have recently ventured into frontend technologies too - check out my new portfolio site here: https://vwsdev.com/
 
 <p align="center">
   <b>GitHub Stars I received:</b><br/>
